@@ -1,5 +1,3 @@
-import snakegame.SnakeGame;
-
 public class Snake {
 
     SnakeGame main;
